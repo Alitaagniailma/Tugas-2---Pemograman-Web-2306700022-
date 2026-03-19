@@ -1,10 +1,10 @@
-# Tugas Pemrograman Web 2
+Tugas Pemrograman Web 2
 
 Membuat OOP sederhana menggunakan PHP
 
-## Isi
+Isi
 - Class Induk: SivitasAkademik
 - Class Anak: Dosen dan Mahasiswa
 
-## Nama
+Nama
 Alita Agnia Ilma TI6A (2306700022)
