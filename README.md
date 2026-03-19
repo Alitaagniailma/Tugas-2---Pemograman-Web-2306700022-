@@ -7,4 +7,4 @@ Membuat OOP sederhana menggunakan PHP
 - Class Anak: Dosen dan Mahasiswa
 
 ## Nama
-Alita Agnia Ilma
+Alita Agnia Ilma TI6A (2306700022)
