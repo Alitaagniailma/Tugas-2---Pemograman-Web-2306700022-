@@ -50,5 +50,5 @@ echo "NIDN: " . $d1->nidn . "<br><br>";
 // Menampilkan data Mahasiswa
 echo "Mahasiswa:<br>";
 echo "Nama: " . $m1->getNama() . "<br>";
-echo "NIM: " . $m1->nim;
+echo "NIM: " . $m1->nim; . "<br>";
 ?>
